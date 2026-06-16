@@ -77,6 +77,22 @@ body {
 }
 
 /* ── API Key ── */
+.provider-select {
+  width: 100%;
+  margin-bottom: 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: var(--cream);
+  font-size: 0.95rem;
+  font-family: Georgia, serif;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.provider-select:focus { border-color: var(--teal); }
+
 .key-row {
   display: flex;
   gap: 8px;

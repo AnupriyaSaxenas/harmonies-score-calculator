@@ -41,13 +41,22 @@ WATER — SIDE B (Island scoring):
 
 ═══ ANIMAL CARD SCORING ═══
 
-Each animal card has cube slots. When a player takes a card, cubes fill ALL slots.
-Each time the player places a cube from the card onto the board (completing a habitat), that cube leaves the card — exposing the point number printed below it.
-Score = the points shown in the TOPMOST SLOT that no longer has a cube.
-If ALL cubes are still on the card → 0 pts.
-If ALL cubes have been placed on the board → maximum printed value.
+Each animal card shows several cube slots paired with point values that INCREASE as more cubes are placed. When a player takes a card, cubes fill ALL slots. Each time the player completes that habitat on their board, ONE cube leaves the card and moves to the board, revealing the next (higher) point value.
 
-Count how many cube slots are EMPTY (cube moved to board). The score is the point number at the topmost empty slot.
+Images are provided with a TEXT LABEL before each one stating whether it is an ACTIVE (in-progress) card or a COMPLETED card. Trust these labels:
+• A card labeled COMPLETED has had ALL cubes placed → score its MAXIMUM printed value. Never zero.
+• A card labeled ACTIVE is in progress → score it by the rule below (count placed cubes).
+
+A card's score = count how many cubes have been PLACED (i.e., are NO LONGER on the card), then take the HIGHEST point value revealed by those removed cubes:
+• 0 cubes placed (card still FULL of cubes) → 0 pts
+• Some cubes placed → the highest point value whose cube has been removed
+• ALL cubes placed → the MAXIMUM printed value on the card
+
+⚠️ COMPLETED CARDS — DO NOT SCORE THESE AS ZERO:
+A completed card has had ALL its cubes placed, so it has NO cubes left on it, and is usually set BESIDE the board. An EMPTY card (no cubes) is a COMPLETED card worth its MAXIMUM value — it is NOT zero. Only a card that is still FULL of cubes scores zero.
+Before scoring, explicitly decide for each card: are the colored squares actual cubes sitting in the slots, or empty slots showing only the printed number? Physical cubes are raised 3D pieces casting shadows; empty slots are flat printed numbers. State this determination for each card.
+
+Note: animal cubes also appear ON the board (on the habitats where they were placed). When reading landscape, treat those board cubes as markers, NOT as terrain tokens — the terrain underneath them still counts normally. Do not score animal points from board cubes; score animals only from the cards.
 
 ═══ NATURE'S SPIRIT CARD (if present) ═══
 
